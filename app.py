@@ -1,1 +1,4 @@
-print("Hello, World! for testing")
+application:
+  name: MyApp
+  environment: dev
+  version: 2.0
